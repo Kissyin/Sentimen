@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: stopword
+Version: 0.0.4
+Summary: Stopwords filter for Chinese
+Home-page: https://github.com/tauriel27/stopword
+Author: tauriel
+Author-email: taurieli27@outlook.com
+License: MIT
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Natural Language :: Chinese (Traditional)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Text Processing :: Indexing
+Classifier: Topic :: Text Processing :: Linguistic
+
+# stopwords-cn
+Stopwords for Chinese
+
+
